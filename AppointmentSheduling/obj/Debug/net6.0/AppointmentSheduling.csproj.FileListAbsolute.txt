@@ -69,3 +69,4 @@ C:\Users\victo\Desktop\inzheneria\AppointmentSheduling\AppointmentSheduling\obj\
 C:\Users\victo\Desktop\inzheneria\AppointmentSheduling\AppointmentSheduling\obj\Debug\net6.0\ref\AppointmentSheduling.dll
 C:\Users\victo\Desktop\inzheneria\AppointmentSheduling\AppointmentSheduling\obj\Debug\net6.0\AppointmentSheduling.pdb
 C:\Users\victo\Desktop\inzheneria\AppointmentSheduling\AppointmentSheduling\obj\Debug\net6.0\AppointmentSheduling.genruntimeconfig.cache
+C:\Users\victo\Desktop\inzheneria\AppointmentSheduling\AppointmentSheduling\bin\Debug\net6.0\libman.json
